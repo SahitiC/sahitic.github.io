@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.-M.S. in Science, Indian Institute of Science Education and Research, Pune, 2016-2021
+* M.S.-Ph.D in Neuroscience, IMPRS-MMFD, GTC, Tubingen, 2021-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2021: Research Assistant
+  * Max Planck Institute for Biological Cybernetics, Tubingen
+  * Analysed rat behavioral data and constucted computational models to understand the computational role of phasic Acetylcholine
+  * Supervisor: Dr. Kevin Lloyd and Prof. Peter  Dayan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Research Intern
+  * Australian National University, Canberra
+  * Used Recurrent Neural Networks to model decision making strategies in rats
+  * Supervisor: Prof. Ehsan Arabzadeh 
 
 Publications
 ======
@@ -42,18 +32,33 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+%Talks
+%======
+ % <ul>{% for post in site.talks %}
+  %  {% include archive-single-talk-cv.html %}
+  %{% endfor %}</ul>
+  
+%Teaching
+%======
+ % <ul>{% for post in site.teaching %}
+  %  {% include archive-single-cv.html %}
+  %{% endfor %}</ul>
+  
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Proficient in Python and MATLAB 
+
+Awards
+======
+* Australian National University’s Future Research Talent Fellowship 2019
+* KVPY Scholarship, from Dept. of Science and Technology (DST), Govt Of India
+* 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Teacher Volunteer: At Disha (IISER- Pune’s social outreach programme)
+* Part of co-ordinating team for Karavaan (IISER Pune cultural fest)
+* Volunteer at SPIC-MACAY, IISER Pune: An all-India initiative to preserve Indian Cultur
