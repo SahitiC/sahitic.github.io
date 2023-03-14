@@ -35,13 +35,7 @@ Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylchol
 Posters
 ======
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Fast ACh signals and the optimal control of attention in a detection task. Poster presented at Computational and Systems Neuroscience Meeting (COSYNE 2022).   
-<!--- %Talks
- # %======
- #  % <ul>{% for post in site.talks %}
- #   %  {% include archive-single-talk-cv.html %}
- #   %{% endfor %}</ul> --->
-  
-  
+
 Skills
 ======
 * Proficient in Python and MATLAB 
