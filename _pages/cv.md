@@ -30,16 +30,16 @@ Work experience
 
 Publications
 ======
-Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylcholine: Optimal control of attention in a simple detection task.  PLOS Computational Biology. 10.1371/journal.pcbi.1010642 
+Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylcholine: Optimal control of attention in a simple detection task.  PLOS Computational Biology. [10.1371/journal.pcbi.1010642]
 
 Posters
 ======
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Fast ACh signals and the optimal control of attention in a detection task. Poster presented at Computational and Systems Neuroscience Meeting (COSYNE 2022).   
-[comment]: # %Talks
-[comment]: # %======
-[comment]: #  % <ul>{% for post in site.talks %}
-[comment]: #   %  {% include archive-single-talk-cv.html %}
-[comment]: #   %{% endfor %}</ul>
+<!--- %Talks
+ # %======
+ #  % <ul>{% for post in site.talks %}
+ #   %  {% include archive-single-talk-cv.html %}
+ #   %{% endfor %}</ul> --->
   
   
 Skills
