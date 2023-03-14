@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Find my full CV here](http://academicpages.github.io/files/CV.pdf)
+
 Education
 ======
 * B.S.-M.S. in Science, Indian Institute of Science Education and Research, Pune, 2016-2021
@@ -29,18 +31,15 @@ Work experience
 Publications
 ======
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylcholine: Optimal control of attention in a simple detection task.  PLOS Computational Biology. 10.1371/journal.pcbi.1010642 
-  [comment]: <> {% for post in site.publications %}
-  [comment]: <>   {% include archive-single-cv.html %}
-  [comment]: <> {% endfor %}</ul>
-  
+
 Posters
 ======
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Fast ACh signals and the optimal control of attention in a detection task. Poster presented at Computational and Systems Neuroscience Meeting (COSYNE 2022).   
-[comment]: <> %Talks
-[comment]: <> %======
-[comment]: <>  % <ul>{% for post in site.talks %}
-[comment]: <>   %  {% include archive-single-talk-cv.html %}
-[comment]: <>   %{% endfor %}</ul>
+[comment]: # %Talks
+[comment]: # %======
+[comment]: #  % <ul>{% for post in site.talks %}
+[comment]: #   %  {% include archive-single-talk-cv.html %}
+[comment]: #   %{% endfor %}</ul>
   
   
 Skills
