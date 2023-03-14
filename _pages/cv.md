@@ -28,24 +28,20 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylcholine: Optimal control of attention in a simple detection task.  PLOS Computational Biology. 10.1371/journal.pcbi.1010642 
+  [comment]: <> {% for post in site.publications %}
+  [comment]: <>   {% include archive-single-cv.html %}
+  [comment]: <> {% endfor %}</ul>
   
 Posters
 ======
+Chebolu, S., Dayan, P., and Lloyd, K. (2022). Fast ACh signals and the optimal control of attention in a detection task. Poster presented at Computational and Systems Neuroscience Meeting (COSYNE 2022).   
+[comment]: <> %Talks
+[comment]: <> %======
+[comment]: <>  % <ul>{% for post in site.talks %}
+[comment]: <>   %  {% include archive-single-talk-cv.html %}
+[comment]: <>   %{% endfor %}</ul>
   
-%Talks
-%======
- % <ul>{% for post in site.talks %}
-  %  {% include archive-single-talk-cv.html %}
-  %{% endfor %}</ul>
-  
-%Teaching
-%======
- % <ul>{% for post in site.teaching %}
-  %  {% include archive-single-cv.html %}
-  %{% endfor %}</ul>
   
 Skills
 ======
@@ -53,12 +49,12 @@ Skills
 
 Awards
 ======
+* IMPRS-MMFD scholarship from Max Planck Insitute for Biological Cybernetics 2021-2023
 * Australian National University’s Future Research Talent Fellowship 2019
-* KVPY Scholarship, from Dept. of Science and Technology (DST), Govt Of India
-* 
+* KVPY Scholarship, from Dept. of Science and Technology (DST), Govt Of India 2016-2021
   
 Service and leadership
 ======
+* Helped in the founding of the CaCTüS internship in Tübingen for young scientists from underserved communities  
 * Teacher Volunteer: At Disha (IISER- Pune’s social outreach programme)
 * Part of co-ordinating team for Karavaan (IISER Pune cultural fest)
-* Volunteer at SPIC-MACAY, IISER Pune: An all-India initiative to preserve Indian Cultur
