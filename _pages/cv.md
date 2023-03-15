@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Find my full CV here](http://academicpages.github.io/files/CV.pdf)
+[Find my full CV here](http://sahitic.github.io/files/CV.pdf)
 
 Education
 ======
