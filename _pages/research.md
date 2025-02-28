@@ -15,4 +15,4 @@ We model various (sub-) optimal policies for decisions to delay across tasks wit
 
 In this project, we modelled paying attention in a sustained attention task as an internal action with costs and benefits. We analysed the optimal control of attention as a partially observable markov decision process (POMDP) and provided qualitative evidence that phasic Acetlycholine signals facilitate the internal action of optional attention.
 
-[Download paper here](10.1371/journal.pcbi.1010642)
+[Download paper here](https://doi.org/10.1371/journal.pcbi.1010642)
