@@ -13,13 +13,18 @@ redirect_from:
 
 Education
 ======
+* M.S.-Ph.D in Neuroscience, IMPRS-MMFD, GTC, T\"ubingen, 2021-present
 * B.S.-M.S. in Science, Indian Institute of Science Education and Research, Pune, 2016-2021
-* M.S.-Ph.D in Neuroscience, IMPRS-MMFD, GTC, Tubingen, 2021-present
 
 Work experience
 ======
+* 2023: PhD candidate
+  * Max Planck Institute for Biological Cybernetics, T\"ubingen
+  * Building computational models of delay, self-control and procrastination. Analyzing real-world student data
+  * Supervisor: Prof. Peter Dayan
+
 * 2020-2021: Research Assistant
-  * Max Planck Institute for Biological Cybernetics, Tubingen
+  * Max Planck Institute for Biological Cybernetics, T\"ubingen
   * Analysed rat behavioral data and constucted computational models to understand the computational role of phasic Acetylcholine
   * Supervisor: Dr. Kevin Lloyd and Prof. Peter  Dayan
 
@@ -28,13 +33,21 @@ Work experience
   * Used Recurrent Neural Networks to model decision making strategies in rats
   * Supervisor: Prof. Ehsan Arabzadeh 
 
-Publications
+Publications and pre-prints
 ======
+S Chebolu, P Dayan (2025). Weighting waiting: A decision-theoretic taxonomy of delay, pacing and procrastination. Psyarxiv. [https://doi.org/10.31234/osf.io/jd4ar]
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Vigilance, arousal, and acetylcholine: Optimal control of attention in a simple detection task.  PLOS Computational Biology. [10.1371/journal.pcbi.1010642]
 
-Posters
+Posters and proceedings
 ======
+S Chebolu, P Dayan (2024). Optimal and sub-optimal intertemporal decisions explain procrastination in a real-world task. Proceedings of the Annual Meeting of the Cognitive Science Society 46. [https://escholarship.org/uc/item/2mg517js]
 Chebolu, S., Dayan, P., and Lloyd, K. (2022). Fast ACh signals and the optimal control of attention in a detection task. Poster presented at Computational and Systems Neuroscience Meeting (COSYNE 2022).   
+
+Invited talks
+======
+* Systems neurosicence symposium, T\"ubingen, 2024
+* Murayama Lab, Motivation Science Lab, 2024
+* Wu Lab, HUman and Machine Cognition Lab, 2023
 
 Skills
 ======
@@ -42,12 +55,13 @@ Skills
 
 Awards
 ======
+* COSYNE travel grant 2022
 * IMPRS-MMFD scholarship from Max Planck Insitute for Biological Cybernetics 2021-2023
 * Australian National University’s Future Research Talent Fellowship 2019
 * KVPY Scholarship, from Dept. of Science and Technology (DST), Govt Of India 2016-2021
   
 Service and leadership
 ======
-* Helped in the founding of the CaCTüS internship in Tübingen for young scientists from underserved communities  
+* Helped in the founding of and served as a buddy for the CaCT\"uS internship in T\"ubingen for young scientists from underserved communities  
 * Teacher Volunteer: At Disha (IISER- Pune’s social outreach programme)
 * Part of co-ordinating team for Karavaan (IISER Pune cultural fest)
