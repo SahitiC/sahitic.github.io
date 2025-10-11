@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!--
 {% include base_path %}
-
+-->
 
 [Find my full CV here](http://sahitic.github.io/files/CV2025.pdf)
 
