@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/CV2025.pdf" type="application/pdf" width="100%" height="600px">
+
+[Find my full CV here](http://sahitic.github.io/files/CV2025.pdf)
 
 <!--
-[Find my full CV here](http://sahitic.github.io/files/CV.pdf)
-
 Education
 ======
 * M.S.-Ph.D in Neuroscience, IMPRS-MMFD, GTC, Tübingen, 2021-present
