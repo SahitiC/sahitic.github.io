@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="files/CV2025.pdf" type="application/pdf" width="100%" height="600px">
+
+<!--
 [Find my full CV here](http://sahitic.github.io/files/CV.pdf)
 
 Education
@@ -65,3 +68,4 @@ Service and leadership
 * Helped in the founding of and served as a buddy for the CaCTüS internship in Tübingen for young scientists from underserved communities  
 * Teacher Volunteer: At Disha (IISER- Pune’s social outreach programme)
 * Part of co-ordinating team for Karavaan (IISER Pune cultural fest)
+-->
